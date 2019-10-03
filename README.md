@@ -1,0 +1,2 @@
+# ofc-sedemo
+OpenFAAS resources
